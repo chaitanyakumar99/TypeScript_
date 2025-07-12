@@ -15,35 +15,18 @@
 // export default Counter
 
 
-// let  Hero: string
-
-// function getHero() {
-//     return "Hello"
-// }
-
-// Hero = getHero()
-
-
-// export default App
-
-
-
-// let Hero: string;
-
-// function getHero() {
-//   return "Hello";
-// }
-
-// Hero = getHero();
-
-// function App() {
-//   return (
-//     <div>
-//       <h1>{Hero}</h1>
-//     </div>
-//   );
-// }
-
-// export default App;
 
 let Hero :String;
+
+function getHero(){
+    return "Hello...!"
+}
+
+Hero=getHero()
+
+
+function App(){
+    return <div><h1>{Hero}</h1></div>
+}
+
+export default App
