@@ -1,5 +1,5 @@
 function Component1(num: number) {
-    return num + 2
+    return num + 5
 }
 
 function greet(){
