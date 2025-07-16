@@ -3,6 +3,7 @@ function Component() {
 
     const result = displayUser("Chaitanya", "chkumar@gmail.com")
 
+    
     return (
         <div>
             <h1>User Details</h1>
