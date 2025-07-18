@@ -23,6 +23,7 @@ const App: React.FC = () => {
     const course = createCourse();
 
     // Call function
+    
     createUser(user);
 
     return (
